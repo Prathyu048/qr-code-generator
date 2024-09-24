@@ -1,1 +1,2 @@
-this is the QR code generator using nodejs api data
+nodejs--->
+QR code generator using nodejs api data
